@@ -1,0 +1,3 @@
+new_set:
+  - query_name: amiinfo
+    query: select * from file where directory='/etc/hubble';
